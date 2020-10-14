@@ -12,4 +12,4 @@ See [file-preferences.png](file-preferences.png)
 
 For an example basic max patch setup
 
-See [max-patch-test-setup.png](max-patch-test-setu.png)
+See [max-patch-test-setup.png](max-patch-test-setup.png)
